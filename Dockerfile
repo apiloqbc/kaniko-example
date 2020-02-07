@@ -1,2 +1,2 @@
 FROM busybox
-echo "hello from busybox"
+RUN echo "hello world"
